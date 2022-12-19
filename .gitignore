@@ -96,3 +96,6 @@ dkms.conf
 .idb
 .recipe
 .tlog
+.VC.opendb
+.opendb
+.VC
